@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Local data
+data/papers/*
+data/chroma/*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

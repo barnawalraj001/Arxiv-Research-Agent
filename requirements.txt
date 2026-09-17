@@ -1,0 +1,10 @@
+langgraph
+langchain-core
+arxiv
+PyMuPDF
+chromadb
+sentence-transformers
+google-genai
+pydantic
+python-dotenv
+pytest
