@@ -5,6 +5,7 @@ PyMuPDF
 chromadb
 sentence-transformers
 google-genai
+openai
 pydantic
 python-dotenv
 pytest
