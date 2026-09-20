@@ -1,5 +1,7 @@
 # Autonomous arXiv Paper Digest & QA Agent
 
+**Overview video:** [arXiv Research Agent](https://drive.google.com/file/d/1W_lPZXEAkAZJgd5I5MsotX43Qopn6_3T/view?usp=drive_link)
+
 ## 1. Overview
 
 Interactive CLI agent that:
@@ -199,7 +201,6 @@ Arxiv Research Agent/
 │   ├── state.py              # Pydantic models + AgentState
 │   ├── graph.py              # LangGraph digest + QA graphs
 │   ├── prompts.py            # Briefing / QA prompts
-│   ├── nodes/                # Placeholder package
 │   └── services/
 │       ├── arxiv.py
 │       ├── pdf.py
